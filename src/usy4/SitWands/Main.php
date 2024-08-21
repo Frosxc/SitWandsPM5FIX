@@ -126,7 +126,8 @@ public function sitOnPlayer(?Player $player1, ?Player $player2) {
                 $player2->getId(),
                 EntityLink::TYPE_RIDER,
                 true,
-                true
+                true,
+                0.0,
             )
         );
 
