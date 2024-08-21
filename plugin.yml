@@ -1,6 +1,6 @@
 name: SitWands
 author: usy4
-api: [4.0.0]
+api: [5.0.0]
 version: 1.0.0
 main: usy4\SitWands\Main
 descriptions: a wand allow players to sit on another players
